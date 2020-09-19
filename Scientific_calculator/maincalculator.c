@@ -106,7 +106,7 @@ switch(command_number){
           switch(operation_number){
           case 1: printf("\n\n\n\t\t\t\aEnter a value:");
                   scanf("%lf",&number);
-                  printf("\n\n\n\t\t\t\asinh(%lf)=%10.4lf",number,hyperbolic_sin(number));
+                  printf("\n\n\n\t\t\t\asinh(%lf)=%10.4lf",number,hyperblic_sin(number));
                   break;
           case 2:  printf("\n\n\n\t\t\t\aEnter a value:");
                   scanf("%lf",&number);
