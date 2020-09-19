@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <math.h>
+
 #include<stdlib.h>
 #include "sin.h"
 #include "cos.h"
